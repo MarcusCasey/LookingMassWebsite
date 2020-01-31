@@ -1,14 +1,5 @@
 {
   "projects": {
-    "default": "dragonpine-main"
-  },
-  "targets": {
-    "dragonpine-main": {
-      "hosting": {
-        "website": [
-          "dragonpine-main"
-        ]
-      }
-    }
+    "default": "looking-mass"
   }
 }

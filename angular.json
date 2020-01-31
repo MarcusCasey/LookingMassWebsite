@@ -24,14 +24,8 @@
             "polyfills": "src/polyfills.ts",
             "tsConfig": "tsconfig.app.json",
             "aot": false,
-            "assets": [
-              "src/favicon.ico",
-              "src/assets"
-            ],
-            "styles": [
-              "src/styles.scss",
-              "/Users/marcus/website/node_modules/bulma/css/bulma.css"
-            ],
+            "assets": ["src/favicon.ico", "src/assets"],
+            "styles": ["src/styles.scss", "node_modules/bulma/css/bulma.css"],
             "scripts": []
           },
           "configurations": {
