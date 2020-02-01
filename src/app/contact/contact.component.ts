@@ -15,7 +15,7 @@ export class ContactComponent implements OnInit {
   ngOnInit() {}
 
   submitForm() {
-    const message = `My name is ${this.name}.`
+    const message = `Thank you for contacting us.`;
     alert(message);
     // grab all fields and their values
   }
